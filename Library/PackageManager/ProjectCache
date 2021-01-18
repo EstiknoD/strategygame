@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637462374677355231
-    m_Hash: 1142701192
+      ticks: 637465038680299284
+    m_Hash: 3269894978
   m_LockFileStatus:
     m_FilePath: C:/Users/david/Desktop/strategy game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637462377542090815
-    m_Hash: 3994733124
+      ticks: 637465038728438611
+    m_Hash: 2963080813
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -88,6 +88,7 @@ m_ResolvedPackages:
     - 4.2.4
     - 4.2.5
     - 4.2.6
+    - 4.2.8
     - 5.0.0
     - 5.0.1
     - 5.0.2
@@ -275,6 +276,7 @@ m_ResolvedPackages:
     - 3.1.4
     - 3.1.5
     - 3.1.6
+    - 3.1.7
     - 4.0.0
     - 4.0.1
     - 4.0.2
@@ -451,6 +453,7 @@ m_ResolvedPackages:
     - 4.1.2
     - 4.1.3
     - 4.1.4
+    - 4.1.5
     - 5.0.0
     - 5.0.1
     - 5.0.2
@@ -569,6 +572,115 @@ m_ResolvedPackages:
     type: 
     url: 
     revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.cinemachine@2.7.1
+  testable: 0
+  isDirectDependency: 1
+  version: 2.7.1
+  source: 1
+  resolvedPath: C:\Users\david\Desktop\strategy game\Library\PackageCache\com.unity.cinemachine@2.7.1
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nNew for 2.7.1: Are
+    you looking for the Cinemachine menu?  It has moved to the GameObject menu.\n\nIMPORTANT
+    NOTE: If you are upgrading from the legacy Asset Store version of Cinemachine,
+    delete the Cinemachine asset from your project BEFORE installing this version
+    from the Package Manager."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.7.1
+    compatible:
+    - 2.7.1
+    verified: 2.7.1
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637411496490000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/Unity-Technologies/upm-package-cinemachine.git
+    revision: 863a03db6aa5c7f91b66e644065be1cac7f73f10
     path: 
   unityLifecycle:
     version: 
@@ -877,6 +989,58 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
+- packageId: com.unity.postprocessing@3.0.2
+  testable: 0
+  isDirectDependency: 1
+  version: 3.0.2
+  source: 2
+  resolvedPath: C:\Program Files\Unity\Hub\Editor\2021.1.0b1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.postprocessing
+  assetPath: Packages/com.unity.postprocessing
+  name: com.unity.postprocessing
+  displayName: Post Processing
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The post-processing stack (v2) comes with a collection of effects
+    and image filters you can apply to your cameras to improve the visuals of your
+    games.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 3.0.2
+    compatible:
+    - 3.0.2
+    verified: 3.0.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: 
+    name: 
+    url: 
+    scopes: []
+    isDefault: 0
+    capabilities: 0
+  hasRegistry: 0
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.test-framework@1.1.19
   testable: 0
   isDirectDependency: 1
@@ -1153,6 +1317,7 @@ m_ResolvedPackages:
     - 1.2.15
     - 1.2.16
     - 1.2.17
+    - 1.2.18
     - 1.3.0-preview.2
     - 1.3.0-preview.3
     - 1.3.0-preview.5
@@ -1165,6 +1330,7 @@ m_ResolvedPackages:
     - 1.3.4
     - 1.3.5
     - 1.3.6
+    - 1.3.7
     - 1.4.0-preview.1
     - 1.4.0-preview.2
     - 1.4.0-preview.3
@@ -1177,6 +1343,7 @@ m_ResolvedPackages:
     - 1.4.3
     - 1.4.4
     - 1.4.5
+    - 1.4.6
     - 1.5.0-pre.2
     - 1.5.0-preview.1
     - 1.5.0-preview.2
@@ -1186,9 +1353,13 @@ m_ResolvedPackages:
     - 1.5.1-pre.1
     - 1.5.1-pre.2
     - 1.5.1-pre.3
+    - 1.5.2
+    - 1.6.0-pre.1
     compatible:
     - 1.5.1-pre.3
-    verified: 1.5.1-pre.3
+    - 1.5.2
+    - 1.6.0-pre.1
+    verified: 1.5.2
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
